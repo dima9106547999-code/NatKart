@@ -1,5 +1,6 @@
-pyswisseph 
-groq 
-python-dotenv 
-python-telegram-bot 
-
+pyswisseph
+groq
+python-dotenv
+python-telegram-bot
+pytz
+timezonefinder
