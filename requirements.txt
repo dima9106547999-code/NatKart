@@ -1,3 +1,4 @@
 pyswisseph 
 groq 
 python-dotenv 
+python-telegram-bot 
