@@ -41,3 +41,4 @@ payment_logs.csv
 payments.csv
 reports.csv
 *.csv  # если все CSV файлы чувствительные
+pyswisseph/
