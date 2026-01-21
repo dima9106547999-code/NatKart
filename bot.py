@@ -19,7 +19,7 @@ from functools import wraps
 from collections import Counter
 from typing import Dict, Tuple, Optional, List
 
-import pyswisseph as swe
+import swisseph as swe
 from dotenv import load_dotenv
 from groq import Groq
 from telegram.error import BadRequest
