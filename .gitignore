@@ -1,0 +1,43 @@
+# Все файлы .env и .env.local
+.env
+.env.*
+*.env
+
+# Python специфичное
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+ENV/
+env/
+
+# Логи
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Telegram/DISCORD tokens
+config.py
+settings.ini
+token.txt
+secret.json
+
+# Добавьте в конец .gitignore
+# Payment data
+payment_logs.csv
+payments.csv
+reports.csv
+*.csv  # если все CSV файлы чувствительные
