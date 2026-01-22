@@ -40,5 +40,7 @@ secret.json
 payment_logs.csv
 payments.csv
 reports.csv
-*.csv  # если все CSV файлы чувствительные
-pyswisseph/pyswisseph/ 
+*.csv
+
+# Python libraries (do not commit local copies)
+pyswisseph/
